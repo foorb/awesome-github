@@ -24,6 +24,7 @@
 + [octodex](https://octodex.github.com/) – Octocats. Octocats everywhere.
 + [octoboard](http://octoboard.com) [[repository](https://github.com/KuiKui/Octoboard)] – GitHub activity dashboard.
 + [githubarchive](https://www.githubarchive.org/) [[repository](https://github.com/igrigorik/githubarchive.org)] – Record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
++ [Repo Health Check](http://repocheck.com) [[repository](https://github.com/dogweather/repo-health-check)] – Analyze a project and its management.
 + [issuestats](http://issuestats.com) [[repository](https://github.com/hstove/issue_stats)] – Analyze and compare how long it takes for Github issues to be closed.
 + [githut](http://githut.info) [[repository](https://github.com/littleark/githut/)] – Visualization of data from github archive.
 + [popularconvention](http://sideeffect.kr/popularconvention) [[repository](https://github.com/outsideris/popularconvention)] – Analyzing code convention from Github commits.
